@@ -9,6 +9,8 @@ import org.junit.Test;
  */
 public class AppTest 
 {
+    public static boolean isEven(int n);
+        
     /**
      * Rigorous Test :-)
      */
